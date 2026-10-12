@@ -2,7 +2,7 @@
 
 | Item | Status |
 | --- | --- |
-| Publisher name | Provided by the owner: Do Ngoc Quy (individual) |
+| Publisher name | Provided by the owner: Đỗ Ngọc Quý (individual) |
 | Privacy contact email | Provided by the owner: doquy07072002@gmail.com |
 | Effective date | 12 October 2026 (the day the page was prepared; change it if the app is published later or the text changes) |
 | Public URL | **Open.** Expected `https://doquy1.github.io/little-color-world-privacy/`; only valid after GitHub Pages is enabled and the address opens (see `DEPLOYMENT.md`) |
